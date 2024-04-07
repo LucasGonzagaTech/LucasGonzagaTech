@@ -15,6 +15,14 @@
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </div>
 <br/>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasGonzagaTech/LucasGonzagaTech/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasGonzagaTech/LucasGonzagaTech/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucasGonzagaTech/LucasGonzagaTech/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
 
 Apaixonado por tecnologia e sempre atrás de oportunidades para evoluir na área, o objetivo é um dia me tornar uma referência.
 
