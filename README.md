@@ -1,4 +1,4 @@
-### Olá! Eu me chamo Lucas!
+### Olá! Eu me chamo Lucas! 👋🏻
 
 <div align='center'>
   
