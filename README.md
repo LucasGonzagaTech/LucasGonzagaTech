@@ -1,5 +1,7 @@
 ### Olá! Eu me chamo Lucas! 👋🏻
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gonzaga-423713274)
+
 <div align='center'>
   
 <img src="./github/assets/bar.png" width="100%" height="8px"/>
