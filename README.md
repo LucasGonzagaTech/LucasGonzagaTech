@@ -12,6 +12,13 @@
   
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasGonzagaTech/LucasGonzagaTech/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasGonzagaTech/LucasGonzagaTech/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucasGonzagaTech/LucasGonzagaTech/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
+
 </div>
 
 <img src="./github/assets/bar.png" width="100%" height="8px"/>
