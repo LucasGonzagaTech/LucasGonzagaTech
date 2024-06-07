@@ -1,26 +1,23 @@
-### Olá me chamo Lucas Gonzaga 👋🏻,
+### Olá! Eu me chamo Lucas!
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gonzaga-423713274)
+<div align='center'>
+  
+<img src="./github/assets/bar.png" width="100%" height="8px"/>
 
-![Lucas Gonzaga GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasGonzagaTech&show_icons=true&theme=dracula)
-
-## Tecnologias que utilizo
-
-#### Front-End-
-<div style="display: inline_block">
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<div align="center">  
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasGonzagaTech&show_icons=true&count_private=true&title_color=FF204E&icon_color=A0153E&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGonzagaTech&layout=compact&title_color=FF204E&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  
 </div>
-<br/>
-<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasGonzagaTech/LucasGonzagaTech/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasGonzagaTech/LucasGonzagaTech/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucasGonzagaTech/LucasGonzagaTech/output/github-contribution-grid-snake.svg">
-</picture>
-<br><br>
+</div>
 
-Apaixonado por tecnologia e sempre atrás de oportunidades para evoluir na área, o objetivo é um dia me tornar uma referência.
+<img src="./github/assets/bar.png" width="100%" height="8px"/>
 
+## My Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,linux,mysql,nextjs,figma,vscode,git,github&theme=dark" width="100%"/>
+
+<div>
